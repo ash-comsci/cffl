@@ -193,7 +193,7 @@ body {
 }
 
 .rule-content li::before {
-    content: "🏈";
+    content: "";
     position: absolute;
     left: -2rem;
 }
